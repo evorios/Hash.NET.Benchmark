@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netcoreapp3.0;net472</TargetFrameworks>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BenchmarkDotNet" Version="0.12.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\hashlibs\ailen0ada.xxHash4net\xxHash4net\xxHash4net.csproj" />
+    <ProjectReference Include="..\hashlibs\brandondahler.Data.HashFunction\src\OpenSource.Data.HashFunction.Core\OpenSource.Data.HashFunction.Core.csproj" />
+    <ProjectReference Include="..\hashlibs\brandondahler.Data.HashFunction\src\OpenSource.Data.HashFunction.Interfaces\OpenSource.Data.HashFunction.Interfaces.csproj" />
+    <ProjectReference Include="..\hashlibs\brandondahler.Data.HashFunction\src\OpenSource.Data.HashFunction.xxHash\OpenSource.Data.HashFunction.xxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\ByteTerrace.Maths.Probability.XxHash\Project\ByteTerrace.Maths.Probability.XxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\differentrain.YYProject.XXHash\XXHash\YYProject.XXHash\YYProject.XXHash.csproj" />
+    <ProjectReference Include="..\hashlibs\EnokiSolutions.es-xxhash\ES.XxHash\ES.XxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\ftlab.FT.xxHash\src\FT.xxHash\FT.xxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\MiloszKrajewski.K4os.Hash.xxHash\src\K4os.Hash.xxHash\K4os.Hash.xxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\neosmart.hashing.net\xxHash\xxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\shibox.XXHash\XXHash-Net45\XXHash-Net45.csproj" />
+    <ProjectReference Include="..\hashlibs\ssg.HashDepot\src\HashDepot.csproj" />
+    <ProjectReference Include="..\hashlibs\uranium62.xxHash\src\Standart.Hash.xxHash\Standart.Hash.xxHash.csproj" />
+    <ProjectReference Include="..\hashlibs\wilhelmliao.xxHash.NET\src\Extensions.Data.xxHash\Extensions.Data.xxHash.core20.csproj" />
+    <ProjectReference Include="..\hashlibs\xoofx.smash\src\Smash\Smash.csproj" />
+    <ProjectReference Include="..\hashlibs\Zhentar.xxHash3.NET\xxHash3\xxHash3.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,42 @@
+[submodule "hashlibs/ailen0ada.xxHash4net"]
+	path = hashlibs/ailen0ada.xxHash4net
+	url = https://github.com/ailen0ada/xxHash4net.git
+[submodule "hashlibs/brandondahler.Data.HashFunction"]
+	path = hashlibs/brandondahler.Data.HashFunction
+	url = https://github.com/brandondahler/Data.HashFunction.git
+[submodule "hashlibs/ByteTerrace.Maths.Probability.XxHash"]
+	path = hashlibs/ByteTerrace.Maths.Probability.XxHash
+	url = https://dev.azure.com/byteterrace/CSharp/_git/ByteTerrace.Maths.Probability.XxHash.git
+[submodule "hashlibs/differentrain.YYProject.XXHash"]
+	path = hashlibs/differentrain.YYProject.XXHash
+	url = https://github.com/differentrain/YYProject.XXHash.git
+[submodule "hashlibs/EnokiSolutions.es-xxhash"]
+	path = hashlibs/EnokiSolutions.es-xxhash
+	url = https://github.com/EnokiSolutions/es-xxhash.git
+[submodule "hashlibs/ftlab.FT.xxHash"]
+	path = hashlibs/ftlab.FT.xxHash
+	url = https://github.com/ftlab/FT.xxHash.git
+[submodule "hashlibs/MiloszKrajewski.K4os.Hash.xxHash"]
+	path = hashlibs/MiloszKrajewski.K4os.Hash.xxHash
+	url = https://github.com/MiloszKrajewski/K4os.Hash.xxHash.git
+[submodule "hashlibs/neosmart.hashing.net"]
+	path = hashlibs/neosmart.hashing.net
+	url = https://github.com/neosmart/hashing.net.git
+[submodule "hashlibs/shibox.XXHash"]
+	path = hashlibs/shibox.XXHash
+	url = https://github.com/shibox/XXHash.git
+[submodule "hashlibs/ssg/HashDepot"]
+	path = hashlibs/ssg.HashDepot
+	url = https://github.com/ssg/HashDepot.git
+[submodule "hashlibs/uranium62.xxHash"]
+	path = hashlibs/uranium62.xxHash
+	url = https://github.com/uranium62/xxHash.git
+[submodule "hashlibs/wilhelmliao.xxHash.NET"]
+	path = hashlibs/wilhelmliao.xxHash.NET
+	url = https://github.com/wilhelmliao/xxHash.NET.git
+[submodule "hashlibs/xoofx.smash"]
+	path = hashlibs/xoofx.smash
+	url = https://github.com/xoofx/smash.git
+[submodule "hashlibs/Zhentar.xxHash3.NET"]
+	path = hashlibs/Zhentar.xxHash3.NET
+	url = https://github.com/Zhentar/xxHash3.NET.git
